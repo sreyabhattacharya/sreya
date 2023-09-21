@@ -1,2 +1,6 @@
 # sreya
-I'm a student pursuing B.Sc. Honors in Statistics.
+👋 Hi, I’m @sreyabhattacharya
+👀 I’m interested in learning python and R software
+🌱 I’m currently pursuing my graduartion in statistics
+💞️ I’m looking for an internship where i can learn the same
+📫 How to reach me : mail_id: sreyabhattacharya02@gmail.com whatsapp no. : +91 7439268879
